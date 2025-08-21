@@ -1,5 +1,5 @@
 // import {Table } from 'lucide-react'
-import Badge from './ui/Badge'
+import {Badge} from './ui/badge'
 import React from 'react'
 import {Table, TableBody, TableCaption, TableCell, TableHead, TableHeader, TableRow } from './ui/table'
 import { useSelector } from 'react-redux'
